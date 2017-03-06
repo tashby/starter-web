@@ -12,6 +12,6 @@
     Please leave a review
 
 # TECHNOLOGY COLOPHON
-
+Some more tech
     HTML5, CSS3
     jQuery, Modernizr

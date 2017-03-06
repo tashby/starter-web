@@ -14,3 +14,7 @@ This is a simple web project
 This is an example to show different parts of the Git repository
 
 ## How To Contribute
+
+##Copyright
+
+Git Training 2014

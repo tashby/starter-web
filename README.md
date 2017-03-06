@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This repository is for showing how Git and GitHub work. This is a simple website
-
+Adding a line for rebasing example.
 ## Purpose
 
 Sample website with plenty of files for demos. As stated the main purpose is to supply examples
